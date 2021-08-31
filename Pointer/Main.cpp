@@ -24,9 +24,9 @@ void main()
 	int b = 3;
 	pb = &b;
 	//int - int
-	//int* - Указатель на int
+	//int* - Указатель на int (pointer to int)
 	//double - double
-	//double* - Указатель на double
+	//double* - Указатель на double (pointer to double)
 	//char - char
 	//char* - Указатель на char  
 #endif // POINTERS_BASICS
